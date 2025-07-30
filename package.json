@@ -1,0 +1,25 @@
+{
+  "name": "platzitailwindcss2025",
+  "version": "1.0.0",
+  "description": "curso Tailwindcss2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-tailwind": "npx tailwindcss -i tailwind.css -o styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avidev-code/platziTailwindcss2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avidev-code/platziTailwindcss2025/issues"
+  },
+  "homepage": "https://github.com/avidev-code/platziTailwindcss2025#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
